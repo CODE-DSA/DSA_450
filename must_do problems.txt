@@ -1,0 +1,19 @@
+1.longest common subsequence
+2.common sub string
+3.coin change problem
+4.longest common increasing subsequence
+5.longest palindromic subseq
+6.shortest common super string
+7.0/1 knapsack
+8.rod cutting problem
+9.subset sum problem
+10.equal sum partitioning
+11.fib using memoization
+12.count of subsets whose sum is equal to given sum
+13.min of operations required to convert string s1 to s2 or viceversa
+14.patter matching using kmp algo.
+15.
+ALGORITHMS
+1.Digikstras
+2.krushkals
+3.prims
